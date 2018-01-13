@@ -1,7 +1,7 @@
 # Techknowledgist Component Descriptions
 
 
-This page has a list of relevant papers on Techknowledgist and ther context it was developed in (the BAE ARBITER project fpr the FUSE program) as well as a list of high-level descriptions of aspects of Techknowledgist components. 
+This page has a list of relevant papers on Techknowledgist and the context it was developed in (the BAE ARBITER project for the FUSE program) as well as a list of high-level descriptions of aspects of Techknowledgist components. 
 
 Papers:
 
