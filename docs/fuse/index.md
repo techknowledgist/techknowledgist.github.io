@@ -5,13 +5,13 @@ This page has a list of relevant papers on Techknowledgist and the context it wa
 
 Papers:
 
-- David C. Brock, Olga Babko-Malaya, James Pustejovsky, Patrick Thomas, Sean Stromsten, and Fotis Barlos. 2012. _Applied Actant-Network Theory: Toward the Automated Detection of Technoscientific Emergence from Full-Text Publications and Patents_. AAAI Technical Report FS-12-08 Social Networks and Social Contagion. [pdf](papers/5577-23897-1-PB.pdf).
+- David C. Brock, Olga Babko-Malaya, James Pustejovsky, Patrick Thomas, Sean Stromsten, and Fotis Barlos. 2012. *Applied Actant-Network Theory: Toward the Automated Detection of Technoscientific Emergence from Full-Text Publications and Patents*. AAAI Technical Report FS-12-08 Social Networks and Social Contagion. [pdf](papers/5577-23897-1-PB.pdf).
 
-- Olga Babko-Malaya, Daniel Hunter, Gregory Amis, Patrick Thomas, Adam Meyer, James Pustejovsky and Marc Verhagen. _Characterizing Communities of Practice in Emerging Science and Technology Fields_. 2013 International Conference on Social Intelligence and Technology (SOCIETY). [pdf](papers/CommunityOfPractice.pdf)
+- Olga Babko-Malaya, Daniel Hunter, Gregory Amis, Patrick Thomas, Adam Meyer, James Pustejovsky and Marc Verhagen. *Characterizing Communities of Practice in Emerging Science and Technology Fields*. 2013 International Conference on Social Intelligence and Technology (SOCIETY). [pdf](papers/CommunityOfPractice.pdf)
 
-- Peter Anick, Marc Verhagen and James Pustejovsky. 2014. Identification of Technology Terms in Patents. LREC 2014. Reykjavik, Iceland. [pdf](papers/technology_identification.pdf).
+- Peter Anick, Marc Verhagen and James Pustejovsky. 2014. *Identification of Technology Terms in Patents*. LREC 2014. Reykjavik, Iceland. [pdf](papers/technology_identification.pdf).
 
-- Peter Anick Marc Verhagen James Pustejovsky. Extracting Aspects and Polarity: a High Level Ontology for Patent Domain Terminology. Unpublished. [pdf](papers/coling2014_submission.pdf).
+- Peter Anick Marc Verhagen James Pustejovsky. *Extracting Aspects and Polarity: a High Level Ontology for Patent Domain Terminology*. Unpublished. [pdf](papers/coling2014_submission.pdf).
 
 Descriptions:
 
