@@ -15,7 +15,7 @@ Papers:
 
 Descriptions:
 
-- Technology score (to be added)
+- Technology score ([download](TechnologyScore.docx))
 - Maturity Score ([download](MaturityScore.docx))
 - Invention key terms ([download](InventionKeyTerms.docx))
 - Domain role ontologies ([download](DomainRoleOntologies))
